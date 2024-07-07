@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="creme_1.xsl" type="text/xsl" ?>
+
+<cremes langue = "fr">
+	<creme>
+		La <marque>Roche Posay Anthelios UVmune</marque> Fluide Non Parfumé SPF50+<quantite>50ml</quantite> est une crème solaire haute protection à large spectre contre les UVA ultra-longs enrichie en Eau Thermale de La Roche-Posay pour <zone_corps>tous le corps</zone_corps>.
+
+		Ses caractéristiques :
+
+		Texture <texture>fluide ultra-légère</texture>, effet peau nue et sans parfum.
+		Fini non gras et invisible.
+		Formulée pour les <type_peau>peaux sensibles</type_peau>aux<type_peau>peaux sujettes aux intolérances solaires</type_peau>, communément appelées allergies solaires.
+		Ensoleillement extrême.
+		<bienfait>Protège des dommages cellulaires profonds.</bienfait>
+		Résistant à l’eau + transpiration.
+		<bienfait>Anti-picotement oculaire</bienfait>.
+		Le nouveau filtre UV Mexoryl 400 est notre innovation scientifique : le filtre ultime contre les UV les plus insidieux
+
+		[380-400NM] <type_uv>UVA ULTRA-LONGS</type_uv>** : Ils sont imperceptibles et dommageables, et représentent 30% des rayons UV impactant notre peau toute l'année.
+
+		Notre protection ultime avec la technologie Netlock protection UVB+UVA+UVA ultra-longs, ultra résistance (eau, transpiration, sable), ultra invisible, haute tolérance.
+	</creme>
+	<!-- Ceci est un commentaire séparateur  -->
+	<creme>
+		La Crème <marque>Nivea</marque> SPF 50+ de <quantite>90 ml</quantite> offre une protection solaire quotidienne ultra large spectre qui protège des <type_uv>rayons UVA</type_uv> et au-delà dans la lumière bleue, accélératrice du vieillissement cutané, jusqu'à 450nm. Elle est idéale pour la <type_peau>peau sensible sèche</type_peau> du <zone_corps>visage</zone_corps> . Sa texture <texture>veloutée et fondante</texture> permet une hydratation du visage jusqu'à 8 heures laissant ainsi la <bienfait>peau nourrie et douce au toucher</bienfait> . La Crème SPF 50+ laisse sur la peau un fini imperceptible et non brillant à l’application et <bienfait>constitue une excellente base de maquillage au quotidien</bienfait> . Sa formule est également résistante à l'eau.
+	</creme>
+	<!-- Ceci est un commentaire séparateur  -->
+	<creme>
+		Découvrez le pouvoir protecteur et perfecteur de teint <marque>Eucerin SUN PIGMENT CONTROL</marque> Fluide Solaire SPF 50+ <quantite>50ml</quantite> . Spécialement conçu pour le <zone_corps>visage</zone_corps> , ce fluide solaire hautement efficace <bienfait>cible et combat les taches brunes</bienfait> , tout en prévenant l'apparition de nouvelles hyperpigmentations dues à l'exposition solaire. Sa formule avancée, enrichie en filtres <type_uv>UVA et UVB</type_uv> , offre une protection solaire quotidienne optimale, tandis que des ingrédients actifs tels que le Thiamidol agissent précisément sur les causes de l'hyperpigmentation. Adapté à <type_peau>tous les types de peaux</type_peau> et facile à intégrer dans votre routine de soin matinale, <bienfait>ce fluide solaire est votre allié pour un teint unifié et protégé toute l'année</bienfait>. 
+		Points clés du produit : Protection SPF 50+: Une haute protection solaire contre les rayons UVA/UVB prévenant les dommages cutanés. Réduction des Taches Brunes: Formule avancée avec Thiamidol pour atténuer visiblement les hyperpigmentations. 
+		Prévention de l'Hyperpigmentation: <bienfait>Empêche l'apparition de nouvelles taches dues à l'exposition solaire</bienfait> . 
+		Convient à Tous Types de Peaux: Formulation douce adaptée pour une utilisation quotidienne par toutes les peaux, même les plus sensibles. Formule Légère et Non Grasse: Texture <texture>fluide</texture> qui s'absorbe rapidement sans laisser de résidu collant ou de film blanc.
+	</creme>
+
+</cremes>

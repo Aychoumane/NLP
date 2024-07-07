@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="film_1.xsl" type="text/xsl" ?>
+
+<films>
+	<film>
+		<titre>	Piège en haute mer </titre> 
+		<annee_sortie>1993</annee_sortie>
+		<realisateur>  Andrew Davis	 </realisateur>
+		<acteurs>
+			<acteur>Steven Seagal </acteur>
+			<acteur> Troy Evans </acteur>
+			<acteur> David McKnight </acteur>
+		</acteurs>
+		<synopsis>
+			L'USS Missouri, navire de guerre, fleuron de la marine américaine, entreprend son dernier voyage. A l'issue de la commémoration du cinquantenaire de Pearl Harbor, le cuirasse met le cap sur San Francisco où il doit être désarmé. A son bord, le capitaine Addams assure le commandement entouré, entre autres, par Casey Ryback, le cuisinier, dont seul le capitaine connaît les hauts faits d'arme. 
+		</synopsis>
+	</film>
+	<!-- Ceci est un commentaire séparateur  -->
+	<film>
+		<titre>	Désigné pour mourir	 </titre>
+		<annee_sortie> 	1990  </annee_sortie>
+		<realisateur>  Dwight H. Little </realisateur>
+		<acteurs>
+			<acteur>Keith David </acteur>
+			<acteur>Steven Seagal </acteur>
+			<acteur>Danielle Haris</acteur>
+		</acteurs>
+		<synopsis> 
+			John Hatcher, agent de la DEA qui vient de prendre sa retraite, retourne dans sa ville natale et découvre rapidement que la drogue s'est infiltrée dans le quartier où il habitait. Bien décidé à expulser les trafiquants, Hatcher croise le chemin d'un redoutable baron jamaïcain de la drogue, qui voue Hatcher et sa famille à une mort certaine.
+		</synopsis>
+	</film>
+	<!-- Ceci est un commentaire séparateur  -->
+	<film>
+		<titre>	Échec et Mort	 </titre>
+		<annee_sortie> 	1990  </annee_sortie>
+		<realisateur> Bruce Malmuth </realisateur>
+		<acteurs>
+			<acteur>Kelly Lebrock </acteur>
+			<acteur>Steven Seagal </acteur>
+			<acteur>Frederic Coffin</acteur>
+			<acteur>William Sadler</acteur>
+		</acteurs>
+		<synopsis> 
+			Pour avoir enregistré une conversation compromettante entre un mafioso et un député, le détective Mason Storm et sa femme sont abattus par deux policiers corrompus. Laissé pour mort, Storm reste sept ans dans le coma. Lorsqu'il en sort, un tueur arrive à l'hôpital pour l'achever.
+		</synopsis>
+	</film>
+
+</films>
